@@ -1,3 +1,5 @@
+
+
 const SubSkills = () => {
   return (
     <div className="border-y-2 border-lightGrey relative ">
